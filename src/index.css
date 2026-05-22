@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Manrope", "ui-sans-serif", sans-serif;
+  --font-heading: "Space Grotesk", "ui-sans-serif", sans-serif;
+
+  --color-dashboard-bg: #f3f7f7;
+  --color-dashboard-card: #ffffff;
+  --color-dashboard-ink: #11312f;
+  --color-dashboard-sub: #517270;
+  --color-dashboard-mint: #caefe8;
+  --color-dashboard-deep: #125e57;
+  --color-dashboard-accent: #ff7a4f;
+
+  --shadow-card: 0 8px 30px rgba(10, 37, 64, 0.08);
+  --background-image-hero: radial-gradient(circle at 20% 20%, #d4f4ec 0%, #f3f7f7 60%);
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply m-0 bg-dashboard-bg font-sans text-dashboard-ink antialiased;
+  }
+
+  #root {
+    @apply min-h-screen;
+  }
+}

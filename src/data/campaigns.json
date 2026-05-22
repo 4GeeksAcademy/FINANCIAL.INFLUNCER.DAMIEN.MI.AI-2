@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cmp-instagram-a",
+    "name": "Spring Story Push",
+    "platformId": "instagram",
+    "productId": "product-a",
+    "startDate": "2026-04-01",
+    "endDate": "2026-04-21",
+    "reach": 82000,
+    "clicks": 4800,
+    "conversions": 360,
+    "cost": 2900,
+    "previousConversionRate": 0.39
+  },
+  {
+    "id": "cmp-tiktok-a",
+    "name": "Daily Hook Challenge",
+    "platformId": "tiktok",
+    "productId": "product-a",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-28",
+    "reach": 108000,
+    "clicks": 6100,
+    "conversions": 430,
+    "cost": 3600,
+    "previousConversionRate": 0.31
+  },
+  {
+    "id": "cmp-youtube-b",
+    "name": "Long-Form Trust Series",
+    "platformId": "youtube",
+    "productId": "product-b",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-25",
+    "reach": 64000,
+    "clicks": 2900,
+    "conversions": 255,
+    "cost": 2800,
+    "previousConversionRate": 0.52
+  },
+  {
+    "id": "cmp-instagram-c",
+    "name": "Reels Value Stack",
+    "platformId": "instagram",
+    "productId": "product-c",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-26",
+    "reach": 51000,
+    "clicks": 2400,
+    "conversions": 160,
+    "cost": 1800,
+    "previousConversionRate": 0.44
+  },
+  {
+    "id": "cmp-tiktok-b",
+    "name": "Creator Case Study Sprint",
+    "platformId": "tiktok",
+    "productId": "product-b",
+    "startDate": "2026-04-08",
+    "endDate": "2026-04-29",
+    "reach": 71000,
+    "clicks": 3200,
+    "conversions": 210,
+    "cost": 2500,
+    "previousConversionRate": 0.36
+  },
+  {
+    "id": "cmp-youtube-c",
+    "name": "Comparison Review Funnel",
+    "platformId": "youtube",
+    "productId": "product-c",
+    "startDate": "2026-04-10",
+    "endDate": "2026-04-30",
+    "reach": 54000,
+    "clicks": 2500,
+    "conversions": 175,
+    "cost": 1700,
+    "previousConversionRate": 0.29
+  }
+]
